@@ -1,4 +1,4 @@
-# Planetas en Construcción: Un Viaje a Través de Espectra Molecular
+# Planetas en Construcción: Un Viaje a Través de Espectra Molecular 
 
 ## Resumen del Taller
 Una pregunta primordial entre los seres humanos es: ¿de dónde vino la Tierra? Desde el descubrimiento de planetas extrasolares (exoplanetas) en 1995, los astrónomos han formado una comunidad dedicada al estudio de los exoplanetas y su formación.
