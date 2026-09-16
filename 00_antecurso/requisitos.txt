@@ -4,5 +4,6 @@ pandas
 scipy
 astropy
 matplotlib
+mpl-interactions
 specutils
 statistics
