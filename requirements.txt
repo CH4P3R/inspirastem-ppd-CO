@@ -8,3 +8,4 @@ mpl-interactions
 plotly
 specutils
 statistics
+openpyxl
